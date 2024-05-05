@@ -8,13 +8,18 @@ The files include.
 - The memory profiler, used to gather data analytics for memory footprint.
 
 
-All rights to the following people:
+All credits to the following projects:
 
 [PicaVoxel](https://github.com/GarethIW/PicaVoxel)
-[Drububu Voxelizer](https://drububu.com/miscellaneous/voxelizer/?out=vox)
+
+[Drububu Voxelizer](https://drububu.com/miscellaneous/voxelizer/?out=vox) 
+
 [Toy Robot Dinosaur Model](https://sketchfab.com/3d-models/robot-dinosaur-toy-8ce1a6e5ce4d43ada896ee8f2d4ab289)
+
 [Digital Emily Model](https://vgl.ict.usc.edu/Data/DigitalEmily2/)
+
 [Small Minimalist Table Model](https://sketchfab.com/3d-models/small-minimalist-table-f27cf27533fd40d18af35f089267eb87)
+
 [Sci-Fi Vehicle Model](https://sketchfab.com/3d-models/free-sci-fi-vehicle-032-fv-public-domain-cc0-24388eaa5e9647cb8c116afa352b795a)
 
 
